@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1648817384 source:d:\documentos\utfpr\poo\relogio\main.cpp
+	<iostream>
+	"Relogio.h"
+
+1648817376 d:\documentos\utfpr\poo\relogio\relogio.h
+

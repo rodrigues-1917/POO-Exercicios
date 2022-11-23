@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1651205443 source:d:\documentos\utfpr\poo\ex_6_lista_2_(pixel)\main.cpp
+	<iostream>
+	"Pixel.cpp"
+	<string>
+
+1651205662 d:\documentos\utfpr\poo\ex_6_lista_2_(pixel)\pixel.cpp
+	"Pixel.h"
+	"math.h"
+
+1651205055 d:\documentos\utfpr\poo\ex_6_lista_2_(pixel)\pixel.h
+	<string>
+

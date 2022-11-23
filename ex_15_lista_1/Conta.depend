@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1649443238 source:d:\documentos\utfpr\poo\ex_15_lista_1\main.cpp
+	<iostream>
+	"Conta.h"
+
+1649443156 d:\documentos\utfpr\poo\ex_15_lista_1\conta.h
+

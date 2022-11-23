@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1651202400 source:d:\documentos\utfpr\poo\prova 1\ex_5_lista_2_(distância ponto)\main.cpp
+	<iostream>
+	"Ponto.cpp"
+
+1651202635 d:\documentos\utfpr\poo\prova 1\ex_5_lista_2_(distância ponto)\ponto.cpp
+	"Ponto.h"
+	"math.h"
+
+1651202142 d:\documentos\utfpr\poo\prova 1\ex_5_lista_2_(distância ponto)\ponto.h
+

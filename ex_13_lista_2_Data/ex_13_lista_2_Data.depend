@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1653659149 source:d:\documentos\utfpr\poo\ex_13_lista_2_data\ex_13.cpp
+	<iostream>
+	"ex_13.h"
+
+1653658659 d:\documentos\utfpr\poo\ex_13_lista_2_data\ex_13.h
+
+1653659016 source:d:\documentos\utfpr\poo\ex_13_lista_2_data\main.cpp
+	"ex_13.cpp"
+	<iostream>
+
+1653659149 d:\documentos\utfpr\poo\ex_13_lista_2_data\ex_13.cpp
+	<iostream>
+	"ex_13.h"
+

@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1652301740 source:d:\documentos\utfpr\poo\ex_8_lista_2_(poligno)\main.cpp
+	<iostream>
+	"Poligono.h"
+	"Retangulo.h"
+	"Triangulo.h"
+
+1652302094 source:d:\documentos\utfpr\poo\ex_8_lista_2_(poligno)\poligono.cpp
+	<iostream>
+	"Poligono.h"
+
+1652301968 d:\documentos\utfpr\poo\ex_8_lista_2_(poligno)\poligono.h
+
+1652299949 source:d:\documentos\utfpr\poo\ex_8_lista_2_(poligno)\retangulo.cpp
+	<iostream>
+	"Retangulo.h"
+
+1652299949 d:\documentos\utfpr\poo\ex_8_lista_2_(poligno)\retangulo.h
+	"Poligono.h"
+
+1652299949 source:d:\documentos\utfpr\poo\ex_8_lista_2_(poligno)\triangulo.cpp
+	<iostream>
+	"Triangulo.h"
+
+1652299949 d:\documentos\utfpr\poo\ex_8_lista_2_(poligno)\triangulo.h
+	"Poligono.h"
+

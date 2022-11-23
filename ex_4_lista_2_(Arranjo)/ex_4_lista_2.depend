@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1651185250 source:d:\documentos\utfpr\poo\ex_4_lista_2_(arranjo)\arranjo.cpp
+	"arranjo.h"
+
+1651185268 source:d:\documentos\utfpr\poo\ex_4_lista_2_(arranjo)\main.cpp
+	<iostream>
+	"arranjo.h"
+
+1649970097 d:\documentos\utfpr\poo\ex_4_lista_2_(arranjo)\fatorial.h
+
+1651185360 d:\documentos\utfpr\poo\ex_4_lista_2_(arranjo)\arranjo.h
+

@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1652203300 source:d:\documentos\utfpr\poo\ex_11_lista_2_(animais)\animals.cpp
+	<iostream>
+	"Animals.h"
+
+1652199847 source:d:\documentos\utfpr\poo\ex_11_lista_2_(animais)\cachorro.cpp
+	"Cachorro.h"
+	<iostream>
+
+1652199847 source:d:\documentos\utfpr\poo\ex_11_lista_2_(animais)\gato.cpp
+	"Gato.h"
+	<iostream>
+
+1652300467 source:d:\documentos\utfpr\poo\ex_11_lista_2_(animais)\main.cpp
+	<iostream>
+	"Teste.h"
+	"Animals.h"
+	"Cachorro.h"
+
+1652200876 source:d:\documentos\utfpr\poo\ex_11_lista_2_(animais)\teste.cpp
+	"Teste.h"
+
+1652200744 d:\documentos\utfpr\poo\ex_11_lista_2_(animais)\teste.h
+	"Cachorro.h"
+	"Gato.h"
+
+1652199634 d:\documentos\utfpr\poo\ex_11_lista_2_(animais)\cachorro.h
+	"Animals.h"
+
+1652200744 d:\documentos\utfpr\poo\ex_11_lista_2_(animais)\animals.h
+	<string>
+
+1652200970 d:\documentos\utfpr\poo\ex_11_lista_2_(animais)\gato.h
+	"Animals.h"
+

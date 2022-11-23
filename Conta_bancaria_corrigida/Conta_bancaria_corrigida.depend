@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1647570813 source:d:\documentos\utfpr\poo\conta_bancaria_corrigida\main.cpp
+	<iostream>
+	"Conta.h"
+
+1647568756 d:\documentos\utfpr\poo\conta_bancaria_corrigida\conta.h
+
+1647570743 source:d:\documentos\utfpr\poo\conta_bancaria_corrigida\conta.cpp
+	<iostream>
+	"Conta.h"
+

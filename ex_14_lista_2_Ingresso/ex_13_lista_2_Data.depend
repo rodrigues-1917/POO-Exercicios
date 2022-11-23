@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1653659149 source:d:\documentos\utfpr\poo\ex_13_lista_2_data\ex_13.cpp
+	<iostream>
+	"ex_13.h"
+
+1653658659 d:\documentos\utfpr\poo\ex_13_lista_2_data\ex_13.h
+
+1653659016 source:d:\documentos\utfpr\poo\ex_13_lista_2_data\main.cpp
+	"ex_13.cpp"
+	<iostream>
+
+1653659149 d:\documentos\utfpr\poo\ex_13_lista_2_data\ex_13.cpp
+	<iostream>
+	"ex_13.h"
+
+1653662345 source:d:\documentos\utfpr\poo\ex_14_lista_2_ingresso\ex_13.cpp
+	<iostream>
+	"ex_13.h"
+
+1653658659 d:\documentos\utfpr\poo\ex_14_lista_2_ingresso\ex_13.h
+
+1653661989 source:d:\documentos\utfpr\poo\ex_14_lista_2_ingresso\ex_14.cpp
+	<iostream>
+	"ex_14.h"
+
+1653662067 source:d:\documentos\utfpr\poo\ex_14_lista_2_ingresso\main.cpp
+	<iostream>
+	"ex_13.h"
+	"ex_14.h"
+
+1653661702 d:\documentos\utfpr\poo\ex_14_lista_2_ingresso\ex_14.h
+	<string>
+	"ex_13.h"
+

@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1651698735 source:d:\documentos\utfpr\poo\ex_7_lista_2_(carro)\bibli_carro.cpp
+	<iostream>
+	"bibli_carro.h"
+
+1651336912 source:d:\documentos\utfpr\poo\ex_7_lista_2_(carro)\bibli_pneu.cpp
+	<iostream>
+	"bibli_pneu.h"
+
+1651698799 source:d:\documentos\utfpr\poo\ex_7_lista_2_(carro)\main.cpp
+	<iostream>
+	"bibli_motorista.h"
+	"bibli_carro.h"
+
+1651698770 source:d:\documentos\utfpr\poo\ex_7_lista_2_(carro)\bibli_motorista.cpp
+	<iostream>
+	"bibli_motorista.h"
+	"bibli_carro.h"
+
+1651695097 d:\documentos\utfpr\poo\ex_7_lista_2_(carro)\bibli_motorista.h
+	<string>
+	"bibli_carro.h"
+
+1651285411 d:\documentos\utfpr\poo\ex_7_lista_2_(carro)\bibli_motorista.cpp
+	<iostream>
+	"bibli_motorista.h"
+
+1651698638 d:\documentos\utfpr\poo\ex_7_lista_2_(carro)\bibli_carro.h
+	"bibli_pneu.h"
+
+1651338141 d:\documentos\utfpr\poo\ex_7_lista_2_(carro)\bibli_carro.cpp
+	<iostream>
+	"bibli_carro.h"
+
+1651694525 d:\documentos\utfpr\poo\ex_7_lista_2_(carro)\bibli_pneu.h
+	<string>
+
